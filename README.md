@@ -7,5 +7,6 @@ Varios cosas se han hecho en este repositorio como:
 - Copiar repositorios
 - Crear ramas
 - Hacer Pull request
+- Creado por el increible Platzi team
 
 **ESTOY APRENDIENDO MUCHO **
