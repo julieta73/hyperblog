@@ -9,4 +9,6 @@ Varios cosas se han hecho en este repositorio como:
 - Hacer Pull request
 - Creado por el increible Platzi team
 
+- Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
 **ESTOY APRENDIENDO MUCHO **
