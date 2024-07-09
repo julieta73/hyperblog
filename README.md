@@ -8,5 +8,5 @@ Varios cosas se han hecho en este repositorio como:
 - Crear ramas
 - Hacer Pull request
 - Creado por el increible Platzi team
-
+- Incluye ejemplos en windows, linux y mac
 **ESTOY APRENDIENDO MUCHO **
